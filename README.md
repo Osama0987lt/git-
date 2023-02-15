@@ -1,3 +1,5 @@
 # git-
-my 
+void main() {
+  print("osama");
+}
 ##oo
